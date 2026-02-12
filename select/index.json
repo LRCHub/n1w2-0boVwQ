@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "HEAD SHOT",
+  "base_artist": "HAN-KUN",
+  "createdAt": "2026-02-12T10:03:33.313766Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Head Shot",
+      "artist": "Kst",
+      "has_synced": false,
+      "path": "select/01_Head_Shot_Kst.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Head Shot",
+      "artist": "YoungBoy Never Broke Again",
+      "has_synced": false,
+      "path": "select/02_Head_Shot_YoungBoy_Never_Broke_Again.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Head Shot",
+      "artist": "Sarah Glendening feat. Katrina Rose Dideriksen & Badia Farha",
+      "has_synced": false,
+      "path": "select/03_Head_Shot_Sarah_Glendening_feat._Katrina_Rose_Dideriksen_&_Badia_Farha.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Head Shot",
+      "artist": "Katrina Rose Dideriksen",
+      "has_synced": false,
+      "path": "select/04_Head_Shot_Katrina_Rose_Dideriksen.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "head shot.",
+      "artist": "Acid.",
+      "has_synced": true,
+      "path": "select/05_head_shot._Acid..lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Head Shot",
+      "artist": "Sarah Glendening",
+      "has_synced": false,
+      "path": "select/06_Head_Shot_Sarah_Glendening.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Head Shot",
+      "artist": "Hash 24",
+      "has_synced": false,
+      "path": "select/07_Head_Shot_Hash_24.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Head Shot",
+      "artist": "Tommy Lee Sparta",
+      "has_synced": false,
+      "path": "select/08_Head_Shot_Tommy_Lee_Sparta.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "head/shot",
+      "artist": "sendflowrs",
+      "has_synced": false,
+      "path": "select/09_head_shot_sendflowrs.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Head Shot / Gas In The Truck",
+      "artist": "IShowSpeed",
+      "has_synced": true,
+      "path": "select/10_Head_Shot___Gas_In_The_Truck_IShowSpeed.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Head Shot / Gas In The Truck (Paused)",
+      "artist": "IShowSpeed",
+      "has_synced": true,
+      "path": "select/11_Head_Shot___Gas_In_The_Truck_(Paused)_IShowSpeed.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Head Shot / Gas In The Truck",
+      "artist": "Song, iShowSpeed",
+      "has_synced": true,
+      "path": "select/12_Head_Shot___Gas_In_The_Truck_Song,_iShowSpeed.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HEAD SHOT",
+      "artist": "HAN-KUN, SKY-HI",
+      "has_synced": false,
+      "path": "select/pl_01_HEAD_SHOT_HAN-KUN,_SKY-HI.txt"
+    }
+  ]
+}
